@@ -1,4 +1,4 @@
-![logo](https://github.com/Aayush20031/Aayush20031/blob/main/github_banner.jpg)
+![logo](https://github.com/Aayush20031/Aayush20031/blob/main/bannerjpg.jpg)
 <h1 align="center">Hi 👋, I'm Aayush Kudalkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
